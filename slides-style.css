@@ -1,0 +1,14 @@
+body {
+    font-size: 18px;
+}
+
+pre code {
+    font-size: 16px; /* R code chunk için yazı tipi boyutu */
+}
+
+.handwriting {
+  font-family: 'Gochi Hand', cursive;
+    color: #5DADE2; /* Deniz mavisi renk */
+  font-size: 125%;
+}
+
