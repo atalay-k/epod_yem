@@ -2,7 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
-.*.rproj
+*.rproj
 .RData
 .Ruserdata
 *.Rmd
