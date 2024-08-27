@@ -6,9 +6,18 @@ pre code {
     font-size: 16px; /* R code chunk için yazı tipi boyutu */
 }
 
+
+
 .handwriting {
   font-family: 'Gochi Hand', cursive;
     color: #5DADE2; /* Deniz mavisi renk */
   font-size: 125%;
 }
 
+.small {
+code {
+    font-size: 6x; /* Satır içi kodlar için yazı tipi boyutu */
+    background-color: #f5f5f5; /* Arka plan rengi */
+    padding: 2px 4px; /* İç boşluk */
+    border-radius: 4px; /* Köşe yuvarlama */
+}}
